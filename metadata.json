@@ -1,0 +1,9 @@
+{
+  "name": "MediBot AI - Multilingual Diagnostic System",
+  "description": "A comprehensive medical AI assistant featuring multilingual support, disease prediction models (Diabetes, Heart, Anemia), hospital locator, and vision/voice capabilities.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ]
+}
